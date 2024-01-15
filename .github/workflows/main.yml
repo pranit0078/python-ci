@@ -7,7 +7,8 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest,Edition	Windows 11 Home Single Language
+
     steps:
       -
         name: Checkout
