@@ -9,4 +9,4 @@ COPY . /app
 
 
 # Specify the command to run on container start
-CMD ["python", "test.py"]
+CMD ["python", "a.py"]
