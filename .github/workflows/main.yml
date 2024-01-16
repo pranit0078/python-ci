@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest,Edition	Windows 11 Home Single Language
+    runs-on: Windows 11 Home Single Language
 
     steps:
       -
